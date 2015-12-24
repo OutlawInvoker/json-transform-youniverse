@@ -41,6 +41,36 @@ var input = [
 var key = "Name";
 var output = dataTransform.transform(input, key);
 console.log(output);
+output = [
+  {
+    "Name": [
+      "foo1",
+      "bar1",
+      "foobar1"
+    ]
+  },
+  {
+    "Name": [
+      "foo2",
+      "bar2",
+      "foobar2"
+    ]
+  },
+  {
+    "Name": [
+      "foo3",
+      "bar3",
+      "foobar3"
+    ]
+  },
+  {
+    "Name": [
+      "foo4",
+      "bar4",
+      "foobar4"
+    ]
+  }
+]
 
 ```
 
