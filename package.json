@@ -1,0 +1,23 @@
+{
+  "name": "json-transform",
+  "version": "1.0.0",
+  "description": "Transform JSON data based on key",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutlawInvoker/json-transform.git"
+  },
+  "keywords": [
+    "JSON",
+    "transform"
+  ],
+  "author": "'YouNiverse'",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OutlawInvoker/json-transform/issues"
+  },
+  "homepage": "https://github.com/OutlawInvoker/json-transform#readme"
+}
