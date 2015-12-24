@@ -1,5 +1,5 @@
 {
-  "name": "json-transform",
+  "name": "json-transform-youniverse",
   "version": "1.0.0",
   "description": "Transform JSON data based on key",
   "main": "src/index.js",
